@@ -1,4 +1,4 @@
-package com.Manisha.Ecom;
+package com.Manisha.Ecom.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
