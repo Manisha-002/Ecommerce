@@ -1,8 +1,10 @@
+
 package com.Manisha.Ecom.model.dto;
 
 import java.math.BigDecimal;
 
-public record OrderItemResponse(String productName,
-                                int quantity,
-                                BigDecimal totalprice) {
-}
+public record OrderItemResponse(
+        String productName,
+        int quantity,
+        BigDecimal totalPrice
+) {}
